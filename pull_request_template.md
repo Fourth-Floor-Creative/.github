@@ -1,7 +1,7 @@
 Ticket link: #
 
 Changes in this pull request:
--
+- My change
 
 I confirm that:
 - [ ] My code is secure
