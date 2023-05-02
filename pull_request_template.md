@@ -1,7 +1,7 @@
  {{ change description here }}
 
 
-**Backend PR checlist**
+**Backend PR checklist**
 I confirm that:
 - [ ] My changes are secure and tested
 - [ ] I have documented my changes, where documentation as code is not sufficient
