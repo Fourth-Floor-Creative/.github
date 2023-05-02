@@ -10,7 +10,6 @@ I confirm that:
   Link to PR:
 - [ ] I have raised a PR on the [postman collection](https://github.com/Fourth-Floor-Creative/ffc-api-postman-collection) to reflect my changes
   Link to PR:
-- [ ] If this is a UI component, it adheres to the design documentation 
 - [ ] My changes adhere to the [Fourth Floor Creative Engineering Standards and Principles](https://github.com/Fourth-Floor-Creative/engineering-standards#readme)
 
 **UI PR checklist**
