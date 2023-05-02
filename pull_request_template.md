@@ -1,6 +1,7 @@
-Change description:
+ {{ change description here }}
 
-# Backend PR
+
+**Backend PR checlist**
 I confirm that:
 - [ ] My changes are secure and tested
 - [ ] I have documented my changes, where documentation as code is not sufficient
@@ -12,7 +13,7 @@ I confirm that:
 - [ ] If this is a UI component, it adheres to the design documentation 
 - [ ] My changes adhere to the [Fourth Floor Creative Engineering Standards and Principles](https://github.com/Fourth-Floor-Creative/engineering-standards#readme)
 
-# UI PR
+**UI PR checklist**
 I confirm that:
 - [ ] My changes are secure and tested
 - [ ] I have documented my changes, where documentation as code is not sufficient
